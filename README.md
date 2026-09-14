@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Aaron Galar
 
-<!--
-**AaronGalar/AaronGalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎭 Hybrid QA Automation Engineer & GenAI Quality Specialist
 
-Here are some ideas to get you started:
+Ingeniero de Calidad de Software (QA) especializado en **automatización de pruebas E2E (Playwright)**, **pruebas de integración backend/APIs (Postman / Newman)** y **estrategia de calidad para modelos GenAI / RAG**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+* **UI Automation:** Playwright, JavaScript (Node.js), Page Object Model (POM)
+* **API Testing:** Postman, Newman, REST APIs, JSON Schema Validation
+* **GenAI & AI Testing:** RAG Evaluation, Prompt Robustness, Hallucination Datasets, Red Teaming
+* **CI/CD & Tools:** GitHub Actions, Git, VS Code, HTML Reporters
+
+---
+
+### 🚀 Repositorios Destacados del Portfolio
+
+| Proyecto | Descripción | Tech Stack | Repositorio |
+| :--- | :--- | :--- | :--- |
+| **Playwright UI Framework** | Framework E2E robusto con POM, validaciones de autenticación y pipeline CI/CD. | `Playwright` `JS` `GitHub Actions` | [ Ver Repo](https://github.com/AaronGalar/playwright-qa-portfolio) |
+| **REST API Test Suite** | Suite automatizada de regresión para APIs REST con reportería HTML y ejecución CLI. | `Postman` `Newman` `REST` | [ Ver Repo](https://github.com/AaronGalar/postman-api-qa-portfolio) |
+| **GenAI & RAG QA Framework** | Estrategia global de evaluación de LLMs, métricas de fidelidad y test datasets de seguridad. | `GenAI` `RAG` `LLM Metrics` | [ Ver Repo](https://github.com/AaronGalar/genai-rag-qa-eval-framework) |
+
+---
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/aar%C3%B3n-galar-zabalza-7622ba303/)
